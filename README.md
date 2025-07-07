@@ -2,7 +2,7 @@
 
 
 ## Download link
-[Windows - Download now](https://github.com/userdotttpl/wpress-Extractor/wpress-extractor.exe)
+[Windows - Download now](https://github.com/userdotttpl/wpress-extractor/blob/main/wpress-extractor.exe)
 
 
 ## How to extract/open .wpress files ?

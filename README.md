@@ -12,7 +12,7 @@ Simply provide a path to your downloaded .wpress file as the first commandline a
 ## I'm not very technical - How to use this thing?
 ### Windows Instructions
 
-Simply download the extractor then drop your.wpress file onto the executable (wpress-extractor.exe). ([Thanks hughc](https://github.com/userdotttpl)!)
+Simply download the extractor then drop your.wpress file onto the executable (wpress-extractor.exe). ([Thanks userdotttpl](https://github.com/userdotttpl)!)
 
 
 OR
